@@ -1,3 +1,2 @@
-
-vim.wo.number = true
-vim.wo.relativenumber = true
+require('options')
+require('keymaps')
